@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "trabajo cooperativo en juego rpg", "trabajo cooperativo en juego rpg.csproj", "{A555B576-7073-4526-A2C9-1D715A17C788}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A555B576-7073-4526-A2C9-1D715A17C788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A555B576-7073-4526-A2C9-1D715A17C788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A555B576-7073-4526-A2C9-1D715A17C788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A555B576-7073-4526-A2C9-1D715A17C788}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF0E9948-EFAA-4899-BEF2-34D89F9AC45E}
+	EndGlobalSection
+EndGlobal

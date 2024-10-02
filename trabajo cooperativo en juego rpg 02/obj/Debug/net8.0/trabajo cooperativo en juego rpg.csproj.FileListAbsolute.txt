@@ -1,0 +1,14 @@
+C:\Nelson Files\proyectosDeProgramacion\trabajo cooperativo en juego rpg\bin\Debug\net8.0\trabajo cooperativo en juego rpg.exe
+C:\Nelson Files\proyectosDeProgramacion\trabajo cooperativo en juego rpg\bin\Debug\net8.0\trabajo cooperativo en juego rpg.deps.json
+C:\Nelson Files\proyectosDeProgramacion\trabajo cooperativo en juego rpg\bin\Debug\net8.0\trabajo cooperativo en juego rpg.runtimeconfig.json
+C:\Nelson Files\proyectosDeProgramacion\trabajo cooperativo en juego rpg\bin\Debug\net8.0\trabajo cooperativo en juego rpg.dll
+C:\Nelson Files\proyectosDeProgramacion\trabajo cooperativo en juego rpg\bin\Debug\net8.0\trabajo cooperativo en juego rpg.pdb
+C:\Nelson Files\proyectosDeProgramacion\trabajo cooperativo en juego rpg\obj\Debug\net8.0\trabajo cooperativo en juego rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nelson Files\proyectosDeProgramacion\trabajo cooperativo en juego rpg\obj\Debug\net8.0\trabajo cooperativo en juego rpg.AssemblyInfoInputs.cache
+C:\Nelson Files\proyectosDeProgramacion\trabajo cooperativo en juego rpg\obj\Debug\net8.0\trabajo cooperativo en juego rpg.AssemblyInfo.cs
+C:\Nelson Files\proyectosDeProgramacion\trabajo cooperativo en juego rpg\obj\Debug\net8.0\trabajo cooperativo en juego rpg.csproj.CoreCompileInputs.cache
+C:\Nelson Files\proyectosDeProgramacion\trabajo cooperativo en juego rpg\obj\Debug\net8.0\trabajo cooperativo en juego rpg.dll
+C:\Nelson Files\proyectosDeProgramacion\trabajo cooperativo en juego rpg\obj\Debug\net8.0\refint\trabajo cooperativo en juego rpg.dll
+C:\Nelson Files\proyectosDeProgramacion\trabajo cooperativo en juego rpg\obj\Debug\net8.0\trabajo cooperativo en juego rpg.pdb
+C:\Nelson Files\proyectosDeProgramacion\trabajo cooperativo en juego rpg\obj\Debug\net8.0\trabajo cooperativo en juego rpg.genruntimeconfig.cache
+C:\Nelson Files\proyectosDeProgramacion\trabajo cooperativo en juego rpg\obj\Debug\net8.0\ref\trabajo cooperativo en juego rpg.dll
